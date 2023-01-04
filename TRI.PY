@@ -1,3 +1,4 @@
+#Program to check if the given three sides form a triangle
 side1 = float(input("Enter length of 1st side = "))
 side2 = float(input("Enter length of 2rd side = "))
 side3 = float(input("Enter length of 3rd side = "))
